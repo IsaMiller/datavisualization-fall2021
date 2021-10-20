@@ -7,5 +7,5 @@
 
 ### Steps
 * First we looked at the data and decided we needed to find what headers we wanted.
-* Then we 
+* Then we transposed the data over so it woul dbe thin and not thick. 
 * We decided that the blank spaces needed to stay blank and didn't need an n/a 
