@@ -26,6 +26,6 @@ America and China are in the top with the most billionaires. Nine out of the 10 
 This was easy to find since I had to just look at the top 10. And then analyze that data. 
 
 
-## HL: Bbillionaire breakdown: Tracking the top 500's wealth
+## HL: Billionaire breakdown: Tracking the top 500's wealth
 
 Nut graf: Male Americans who work in technology are far more likely to reach the top 500 of billionaires. Out of the top ten, nine are those who qualify for those factors, and make up 17 percent on the list entirely. 
